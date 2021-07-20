@@ -1,5 +1,5 @@
 ---
-action_label: Read More &rarr;
+action_label: Read More <i class='fas fa-rocket'></i>
 action_link: /about
 action_type: text
 
