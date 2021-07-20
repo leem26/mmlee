@@ -106,16 +106,16 @@ enableEmoji = true
 
 [menu]
   # Configure header 
-  [[menu.header]]
-    name = "About"
-    title = "About Me"
-    url = "/about/"
-    weight = 1
-  [[menu.header]]
-    name = "Projects"
-    title = "Projects"
-    url = "/project/"
-    weight = 2
+  # [[menu.header]]
+  #   name = "About"
+  #   title = "About Me"
+  #   url = "/about/"
+  #   weight = 1
+  # [[menu.header]]
+  #   name = "Projects"
+  #   title = "Projects"
+  #   url = "/project/"
+  #   weight = 2
   [[menu.header]]
     name = "C.V."
     title = "Curriculum Vitae"
