@@ -10,7 +10,9 @@ intro: |
      alt="Markdown Monster icon"
      style="display:block;float:top;margin-top:-100px;margin-left:auto;margin-right:auto;width:30%"/>
 
-  I'm a current PhD student in the Population Health Sciences program at the Harvard University T.H. Chan School of Public Health, in the Department of Nutrition. My research is focused on evaluating existing and potential nutrition policies and program that are poised to reduce cardiometabolic disease, with a particular emphasis on applying causal inference and simulation based methods. Prior to starting at Harvard, I completed a Master of Science degree in Epidemiology (2019) as well as a Bachelor of Arts in Public Health (2017) at the University of California, Berkeley, where I first developed my interests in health science. When I'm not knees-deep in `R` code or any ongoing data analysis, I enjoy playing the oboe/English horn, making (and eating) new foods, and trying to find only the sunniest of hikes.          
+  I'm a current PhD student in the Population Health Sciences program at the Harvard University T.H. Chan School of Public Health, in the Department of Nutrition. My research is focused on evaluating existing and potential nutrition policies and program that are poised to reduce cardiometabolic disease, with a particular emphasis on applying causal inference and simulation based methods. Prior to starting at Harvard, I completed a Master of Science degree in Epidemiology (2019) as well as a Bachelor of Arts in Public Health (2017) at the University of California, Berkeley, where I first developed my interests in health science. When I'm not knee-deep in `R` code or any ongoing data analysis, I enjoy playing the oboe/English horn, making (and eating, of course) new foods, and trying to find the sunniest of hikes. Below are examples of some perhaps *less-than-perfectly-healthy* things I've cooked up recently. :cooking: :ramen: :dumpling:
+
+  \- Matt
   <style>
   * {
     box-sizing: border-box;

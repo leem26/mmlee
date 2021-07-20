@@ -20,7 +20,7 @@ sidebar:
   text_link_label: ""
   text_link_url: ""
   title: A Sidebar for Your Projects
-title: A Project Portfolio To Growwww
+title: For my recent academic projects
 ---
 
 ** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **

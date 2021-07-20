@@ -32,7 +32,7 @@ enableEmoji = true
   orgLocal = ""
   description = "Doctoral (PhD) student in Population Health Sciences (PHS) at the Harvard T.H. Chan School of Public Health Department of Nutrition."
   favicon = "/img/m_icon.png"
-  logo = ""
+  logo = "/img/m_icon.png"
   mainSections = ["blog", "project", "talks"]
   navallcaps = true
   # show/hide social icons in site header & footer
