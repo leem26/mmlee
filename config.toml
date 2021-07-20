@@ -4,7 +4,7 @@ languageCode = "en"
 title = "Matthew M. Lee"
 author = "Matthew M. Lee"
 copyright = "" # set to override the auto generated copyright using org info and now year
-googleAnalytics = "true"
+googleAnalytics = "G-KJBX8ZF1H1"
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus
 metaDataFormat = "yaml"
 footnoteReturnLinkContents = "&#8617;" # ↩
@@ -62,7 +62,7 @@ enableEmoji = true
   # sans-serif options: Commissioner / Alegreya Sans / Metropolis
   # if you import your own fonts, name them here too
   customtextFontFamily = "Commissioner"
-  customheadingFontFamily = "Metropolis"
+  customheadingFontFamily = "Metropolis-SB"
   # alternatively, leave empty and select basic font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
   textFontFamily = "sans-serif"

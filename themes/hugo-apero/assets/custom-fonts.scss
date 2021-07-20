@@ -36,6 +36,26 @@
        url('#{$font-path}/Metropolis-LightItalic.woff')  format('woff');
 }
 
+/* Metropolis-semi bold - latin */
+@font-face {
+  font-family: 'Metropolis-SB';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''),
+       url('#{$font-path}/Metropolis-SemiBold.woff2') format('woff2'),
+       url('#{$font-path}/Metropolis-SemiBold.woff') format('woff');
+}
+
+/* Metropolis-semi bold italic - latin */
+@font-face {
+  font-family: 'Metropolis-SB';
+  font-style: italic;
+  font-weight: 400;
+  src: local(''),
+       url('#{$font-path}/Metropolis-SemiBoldItalic.woff2')  format('woff2'),
+       url('#{$font-path}/Metropolis-SemiBoldItalic.woff')  format('woff');
+}
+
 /* bitter-300 - latin */
 @font-face {
   font-family: 'Bitter';
