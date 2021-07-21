@@ -23,6 +23,10 @@ My doctoral research aims to identify the <span style="font-family:Metropolis-SB
 
 ### Publications
 
+
+Vercammen KA, Moran A, Carnethon M, McClain AC, Pool LR, Kiefe CI, Carson AP, Gordon-Larsen P, Steffen LM, <span style="font-family:Metropolis-SB">Lee MM</span>, Young J, Rimm EB. A longitudinal analysis of food insufficiency and cardiovascular disease risk factors in the Coronary Artery Risk Development in Young Adults Study. *American Journal of Preventive Medicine. In Press.* 2021. 
+
+
 <span style="font-family:Metropolis-SB">Lee MM</span>, Altman E, Madsen KA. Secular Trends in Sugar-Sweetened Beverage Consumption Among Adults, Teens, and Children: The California Health Interview Survey, 2011–2018. *Prev Chronic Dis*. 2021;18. &nbsp;[[link]](https://www.cdc.gov/pcd/issues/2021/20_0399.htm)
 
 Ponce J, Yuan H, Schillinger D, Mahmood H, <span style="font-family:Metropolis-SB">Lee MM</span>, Falbe J, et al. Retailer Perspectives on Sugar-Sweetened Beverage Taxes in the California Bay Area. *Preventive Medicine Reports*. 2020. &nbsp;[[link]](https://www.sciencedirect.com/science/article/pii/S2211335520300899)
