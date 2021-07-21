@@ -111,11 +111,11 @@ enableEmoji = true
     title = "About Me"
     url = "/about/"
     weight = 1
-  # [[menu.header]]
-  #   name = "Projects"
-  #   title = "Projects"
-  #   url = "/project/"
-  #   weight = 2
+  [[menu.header]]
+    name = "Research"
+    title = "Research"
+    url = "/research/"
+    weight = 2
   [[menu.header]]
     name = "C.V."
     title = "Curriculum Vitae"
