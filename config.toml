@@ -117,15 +117,20 @@ enableEmoji = true
     url = "/research/"
     weight = 2
   [[menu.header]]
+    name = "Teaching"
+    title = "Teaching"
+    url = "/teaching/"
+    weight = 3
+  [[menu.header]]
     name = "C.V."
     title = "Curriculum Vitae"
     url = "/pdf/resume_mml_072021.pdf"
-    weight = 3
+    weight = 4
   [[menu.header]]
     name = "Contact"
     title = "Contact"
     url = "/contact/"
-    weight = 4
+    weight = 5
     
   # Configure footer  
   [[menu.footer]]
