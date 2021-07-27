@@ -1,0 +1,1674 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"year",
+				"yearmin2009"
+			],
+			[
+				"geom_error",
+				"geom_errorbar"
+			],
+			[
+				"facet",
+				"facet_grid"
+			],
+			[
+				"add_fitted",
+				"add_fitted_draws"
+			],
+			[
+				"lincom",
+				"get.lincoms_mult"
+			],
+			[
+				"posterior",
+				"posterior_samples"
+			],
+			[
+				"bf",
+				"bf"
+			],
+			[
+				"single-",
+				"single-sidebar"
+			],
+			[
+				"seq",
+				"seq_along"
+			],
+			[
+				"base_trace",
+				"read.base_trace_u"
+			],
+			[
+				"out",
+				"out_list2"
+			],
+			[
+				"discount",
+				"discount_fy"
+			],
+			[
+				"results_",
+				"results_undis"
+			],
+			[
+				"hc",
+				"hc_cost_scalar"
+			],
+			[
+				"cycle",
+				"cycle_start"
+			],
+			[
+				"p_fpl",
+				"p_fpl_ceil"
+			],
+			[
+				"food",
+				"food_insecure"
+			],
+			[
+				"diet_pro",
+				"diet_procmeat_freq"
+			],
+			[
+				"pantry",
+				"pantry_ever_pp"
+			],
+			[
+				"food_in",
+				"food_insecure_pp"
+			],
+			[
+				"wic",
+				"wic_30d_p"
+			],
+			[
+				"snap",
+				"snap_30d_p"
+			],
+			[
+				"median",
+				"median_household_income"
+			],
+			[
+				"pantry_ever",
+				"pantry_ever_pp"
+			],
+			[
+				"pdqs_",
+				"pdqs_score_healthy"
+			],
+			[
+				"snap_ever",
+				"snap_ever_p"
+			],
+			[
+				"alcohol",
+				"alcohol_p"
+			],
+			[
+				"nuts",
+				"nuts_p"
+			],
+			[
+				"fruit",
+				"fruit_p"
+			],
+			[
+				"veg",
+				"veg_p"
+			],
+			[
+				"legume",
+				"legumes_p"
+			],
+			[
+				"swe",
+				"sweets_p"
+			],
+			[
+				"wholegrains",
+				"wholegrains_p"
+			],
+			[
+				"procmeat",
+				"procmeat_same"
+			],
+			[
+				"chg",
+				"chgdiet_procmeat"
+			],
+			[
+				"snap_ever_",
+				"snap_ever_pp"
+			],
+			[
+				"food_",
+				"food_insecure_p"
+			],
+			[
+				"food_insecure",
+				"food_insecure_pp"
+			],
+			[
+				"snap_",
+				"snap_new_p"
+			],
+			[
+				"unaj",
+				"unadj_pdqs_score_all"
+			],
+			[
+				"bind",
+				"bind_cols"
+			],
+			[
+				"begincolum",
+				"\\begin{column}{column width}                      \tclass-beamer"
+			],
+			[
+				"posi",
+				"position_dodge2\t{ggplot2}"
+			],
+			[
+				"nudge",
+				"nudge_y = \tArguments"
+			],
+			[
+				"inlude",
+				"\\includegraphics[options]{name}                   \tlatex-document"
+			],
+			[
+				"geom_text",
+				"geom_text_repel\t{ggrepel}"
+			],
+			[
+				"grid",
+				"gridExtra\tInstalled Package"
+			],
+			[
+				"autocite",
+				"\\autocite{key}                                    \tbiblatex"
+			],
+			[
+				"cairo",
+				"cairo_pdf\t{grDevices}"
+			],
+			[
+				"theme",
+				"theme_void\t{ggplot2}"
+			],
+			[
+				"mutate",
+				"mutate_geocode\t{ggmap}"
+			],
+			[
+				"note",
+				"\\note[options]{note text}                         \tclass-beamer"
+			],
+			[
+				"include",
+				"\\includegraphics[options]{name}                   \tlatex-document"
+			],
+			[
+				"cair",
+				"cairo_pdf\t{grDevices}"
+			],
+			[
+				"oblimi",
+				"oblimin2"
+			],
+			[
+				"melt",
+				"melt\t{reshape2}"
+			],
+			[
+				"footnote",
+				"\\footnote{text}                                   \tlatex-document"
+			],
+			[
+				"subsubs",
+				"\\subsubsection{title}                             \tlatex-document"
+			],
+			[
+				"bm",
+				"\\bmagenta{arg}                                    \tlocal"
+			],
+			[
+				"font",
+				"\\fontfamily{family}                               \tlatex-document"
+			],
+			[
+				"usep",
+				"\\usepackage{package}                              \tlatex-document"
+			],
+			[
+				"biblio",
+				"\\bibliography{file}                               \tlatex-document"
+			],
+			[
+				"enum",
+				"enum\tenum"
+			],
+			[
+				"recode",
+				"recode_factor\t{dplyr}"
+			],
+			[
+				"vspa",
+				"\\vspace{length}                                   \tlatex-document"
+			],
+			[
+				"element",
+				"element_blank\t{ggplot2}"
+			],
+			[
+				"beginalign",
+				"\\begin{align*}                                    \tamsmath"
+			],
+			[
+				"itemize",
+				"\\begin{itemize}                                   \tlatex-document"
+			],
+			[
+				"beginfr",
+				"\\begin{frame}[options]{title}                     \tclass-beamer"
+			],
+			[
+				"seq_",
+				"seq_along\t{base}"
+			],
+			[
+				"sample",
+				"sample_n\t{dplyr}"
+			],
+			[
+				"add_predic",
+				"add_predicted_draws"
+			],
+			[
+				"cross",
+				"crossing\t{tidyr}"
+			],
+			[
+				"facet_",
+				"facet_wrap\t{ggplot2}"
+			],
+			[
+				"Create",
+				"CreateTableOne\t  {tableone}"
+			],
+			[
+				"No",
+				"No"
+			],
+			[
+				"detectc",
+				"detectCores\t  {parallel}"
+			],
+			[
+				"lcd4",
+				"lcd4_0"
+			],
+			[
+				"visitpro",
+				"visitprocess = \tArguments"
+			],
+			[
+				"gformula",
+				"gformula\t{gfoRmula}"
+			],
+			[
+				"unwt",
+				"unwt.dr2"
+			],
+			[
+				"DR1IGRMS",
+				"DR1IGRMS.bevtot"
+			],
+			[
+				"DR",
+				"DR1IGRMS"
+			],
+			[
+				"nahn",
+				"nhanes_2.bevCodesAdd\t  [workspace]"
+			],
+			[
+				"pct.coverage.b",
+				"pct.coverage.byAge"
+			],
+			[
+				"pct.coverage.by",
+				"pct.coverage.byEth"
+			],
+			[
+				"resh",
+				"reshape2\tInstalled Package"
+			],
+			[
+				"tidy",
+				"tidyverse\tInstalled Package"
+			],
+			[
+				"A1_A0",
+				"A1_A0L1"
+			],
+			[
+				"beat",
+				"beta_j"
+			],
+			[
+				"dat.A",
+				"dat.A1.1"
+			],
+			[
+				"theta",
+				"Theta"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"XeLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Clean up Files"
+				],
+				[
+					"Packages/R-Box/support/R Sweave.sublime-build",
+					""
+				],
+				[
+					"Packages/R-Box/support/R Sweave.sublime-build",
+					"knitr"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					""
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					"Knit Rnw"
+				]
+			],
+			[
+				"Packages/R-Box/support/R Sweave.sublime-build",
+				"knitr"
+			]
+		],
+		[
+			[
+				[
+					"Packages/MarkdownPreview/Markdown.sublime-build",
+					""
+				],
+				[
+					"Packages/R-Box/support/R Markdown.sublime-build",
+					""
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					""
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					"Render R Markdown to HTML"
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					"Render R Markdown to PDF"
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					"Render R Markdown"
+				]
+			],
+			[
+				"Packages/R-Box/support/R Markdown.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SendCode/support/IPython - Source File.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/R-Box/support/R Markdown.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					""
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					"Render R Markdown to HTML"
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					"Render R Markdown to PDF"
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					"Render R Markdown"
+				]
+			],
+			[
+				"Packages/R-Box/support/R Markdown.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/R-Box/support/R Markdown.sublime-build",
+					""
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					""
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					"Render R Markdown to HTML"
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					"Render R Markdown to PDF"
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					"Render R Markdown"
+				]
+			],
+			[
+				"Packages/R-Box/support/R Markdown.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/R-Box/support/R Sweave.sublime-build",
+					""
+				],
+				[
+					"Packages/R-Box/support/R Sweave.sublime-build",
+					"knitr"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					""
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					"Knit Rnw"
+				]
+			],
+			[
+				"Packages/R-Box/support/R Sweave.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/R/R.sublime-build",
+					""
+				],
+				[
+					"Packages/R-Box/support/R Markdown.sublime-build",
+					""
+				],
+				[
+					"Packages/SendCode/support/R - Source File.sublime-build",
+					""
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					""
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					"Render R Markdown to HTML"
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					"Render R Markdown to PDF"
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					"Render R Markdown"
+				]
+			],
+			[
+				"Packages/R-Box/support/R Markdown.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/R/R.sublime-build",
+					""
+				],
+				[
+					"Packages/R-Box/support/R Sweave.sublime-build",
+					""
+				],
+				[
+					"Packages/R-Box/support/R Sweave.sublime-build",
+					"knitr"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				],
+				[
+					"Packages/SendCode/support/R - Source File.sublime-build",
+					""
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					""
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					"Knit Rnw"
+				]
+			],
+			[
+				"Packages/R-Box/support/R Sweave.sublime-build",
+				"knitr"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"snippe",
+				"Snippet: rmarkdown-preamble"
+			],
+			[
+				"show",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"word",
+				"LaTeXWordCount: Word Count"
+			],
+			[
+				"wor",
+				"LaTeXWordCount: Word Count"
+			],
+			[
+				"set syntax toml",
+				"Set Syntax: TOML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"rain",
+				"RainbowBrackets: make rainbow"
+			],
+			[
+				"toggle h",
+				"SublimeLinter: Toggle Highlights"
+			],
+			[
+				"toggl",
+				"SublimeLinter: Toggle Highlights"
+			],
+			[
+				"toggle hi",
+				"SublimeLinter: Toggle Highlights"
+			],
+			[
+				"toggle",
+				"SublimeLinter: Toggle Highlights"
+			],
+			[
+				"reload",
+				"SublimeLinter: Reload SublimeLinter and its Plugins"
+			],
+			[
+				"togg",
+				"SublimeLinter: Toggle Highlights"
+			],
+			[
+				"set syntax R",
+				"Set Syntax: R"
+			],
+			[
+				"toggle highli",
+				"SublimeLinter: Toggle Highlights"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"toggle high",
+				"SublimeLinter: Toggle Highlights"
+			],
+			[
+				"unfol",
+				"Code Folding: Unfold All"
+			],
+			[
+				"fold",
+				"Code Folding: Fold All"
+			],
+			[
+				"toggle highlih",
+				"SublimeLinter: Toggle Highlights"
+			],
+			[
+				"show ",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"linter",
+				"SublimeLinter: Toggle Highlights"
+			],
+			[
+				"relo",
+				"SublimeLinter: Reload SublimeLinter and its Plugins"
+			],
+			[
+				"lint this",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"sublimelinter",
+				"SublimeLinter: Quick Action"
+			],
+			[
+				"sublime linter pre",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"lint",
+				"SublimeLinter: Reload SublimeLinter and its Plugins"
+			],
+			[
+				"dipackage",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"add repos",
+				"Package Control: Add Repository"
+			],
+			[
+				"lint this ",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"package inst",
+				"Package Control: Install Package"
+			],
+			[
+				"lint ",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"show er",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"pref lint",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"rainbo",
+				"RainbowBrackets: make rainbow"
+			],
+			[
+				"terminus",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"make",
+				"RainbowBrackets: make rainbow"
+			],
+			[
+				"terminus pan",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"send",
+				"SendCode: Choose Program"
+			],
+			[
+				"terminus v",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"makera",
+				"RainbowBrackets: make rainbow"
+			],
+			[
+				"terminus view",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"sendco",
+				"SendCode: Choose Program"
+			],
+			[
+				"shows",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"key bindin",
+				"Preferences: Key Bindings"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Channel"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"outline",
+				"Browse Mode: Outline (Right)"
+			],
+			[
+				"outlin",
+				"Browse Mode: Outline (Right)"
+			],
+			[
+				"terminus ",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"console",
+				"Set Syntax: R Console"
+			],
+			[
+				"toggle neo",
+				"Toggle NeoVintageous"
+			],
+			[
+				"lint thi",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"error",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"neo",
+				"Toggle NeoVintageous"
+			],
+			[
+				"termin",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"show err",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"out",
+				"Browse Mode: Outline (Right)"
+			],
+			[
+				"terminus panel",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"terminal",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"rai",
+				"RainbowBrackets: make rainbow"
+			],
+			[
+				"consol",
+				"Set Syntax: R Console"
+			],
+			[
+				"markdownlive",
+				"MarkdownLivePreview: Open Settings"
+			],
+			[
+				"preview",
+				"MarkdownLivePreview: Open Settings"
+			],
+			[
+				"open prev",
+				"MarkdownLivePreview: Open Preview"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"build w",
+				"Build: New Build System"
+			],
+			[
+				"browse pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"latextools",
+				"LaTeXTools: Jump to PDF"
+			],
+			[
+				"latex tools",
+				"LaTeXTools: Show word count"
+			],
+			[
+				"docblockr",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"outline right",
+				"Browse Mode: FileBrowser Top Right, Outline Bottom Right"
+			],
+			[
+				"sendcode",
+				"SendCode: Choose Program"
+			],
+			[
+				"gutter",
+				"GitGutter: Enable for View"
+			],
+			[
+				"line",
+				"Browse Mode: Outline (Left)"
+			],
+			[
+				"r ide",
+				"Preferences: R-IDE Settings"
+			],
+			[
+				"r box",
+				"Preferences: R-Box Settings"
+			],
+			[
+				"sweave",
+				"Set Syntax: R Sweave"
+			],
+			[
+				"latex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"rainbow",
+				"RainbowBrackets: make rainbow"
+			],
+			[
+				"terminus theme",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"rainboi",
+				"RainbowBrackets: make rainbow"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"sidebar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"terminus pa",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"git gutter",
+				"Preferences: GitGutter Settings"
+			],
+			[
+				"TERMINUS",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"terminus vi",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"word coun",
+				"LaTeXWordCount: Word Count"
+			],
+			[
+				"swea",
+				"Set Syntax: R Sweave"
+			],
+			[
+				"word count",
+				"LaTeXWordCount: Word Count"
+			],
+			[
+				"latex set",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"set syntax late",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"set syntax swea",
+				"Set Syntax: R Sweave"
+			],
+			[
+				"word ",
+				"LaTeXWordCount: Word Count"
+			],
+			[
+				"set syntax la",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"set syntax latex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"set syntax sweave",
+				"Set Syntax: R Sweave"
+			],
+			[
+				"brosepaca",
+				"Preferences: Browse Packages"
+			],
+			[
+				"colorhint",
+				"Color Hint"
+			],
+			[
+				"r-ide",
+				"Preferences: R-IDE Settings"
+			],
+			[
+				"r-box",
+				"Preferences: R-Box Settings"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"rbox",
+				"Preferences: R-Box Settings"
+			],
+			[
+				"syntax stata",
+				"Set Syntax: Stata"
+			],
+			[
+				"packagein",
+				"Package Control: Install Package"
+			],
+			[
+				"TERMINUS VIEW",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"rr",
+				"RainbowBrackets: make rainbow"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"tabs t",
+				"View: Toggle Tabs"
+			],
+			[
+				"terminuv ewi",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"terinus view",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"clear cache",
+				"LaTeXTools: Clear cache"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"R-ide",
+				"Preferences: R-IDE Settings"
+			],
+			[
+				"build",
+				"Build With: R Sweave"
+			],
+			[
+				"temrinus view",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"open files",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"file",
+				"View: Toggle Open Files in Side Bar"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 184.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/matthewlee/mmlee"
+	],
+	"file_history":
+	[
+		"/Users/matthewlee/Harvard University/GBFB NFACT data analysis team - Documents/Analysis/NFACT.analysis/run_NFACT_analysis.Rout",
+		"/Users/matthewlee/Harvard University/GBFB NFACT data analysis team - Documents/Analysis/NFACT.analysis/R/clean_data.R",
+		"/Users/matthewlee/Harvard University/GBFB NFACT data analysis team - Documents/Analysis/NFACT.analysis/DESCRIPTION",
+		"/Users/matthewlee/Harvard University/GBFB NFACT data analysis team - Documents/Analysis/NFACT.analysis/R/models_etc.R",
+		"/Users/matthewlee/Harvard University/GBFB NFACT data analysis team - Documents/Analysis/NFACT.analysis/R/utils.R",
+		"/Users/matthewlee/Harvard University/GBFB NFACT data analysis team - Documents/Analysis/NFACT.analysis/NAMESPACE",
+		"/Users/matthewlee/Desktop/Parent Survey Notes",
+		"/Volumes/GoogleDrive/My Drive/Matt/School/PhD /Funding/Microsoft PhD Research Fellowship 2021/Thesis/I've noticed alot of ads in my neighborhoods publi",
+		"/Users/matthewlee/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Volumes/GoogleDrive/My Drive/Matt/School/PhD /Funding/Microsoft PhD Research Fellowship 2021/SBS 500 Final Grant/Final-Grant.tex",
+		"/Volumes/GoogleDrive/My Drive/Matt/School/PhD /Funding/Microsoft PhD Research Fellowship 2021/Thesis/Matthew_Lee_thesis.tex",
+		"/Volumes/GoogleDrive/My Drive/Matt/School/PhD /Funding/Microsoft PhD Research Fellowship 2021/Thesis/Matthew_Lee_thesis.pdf",
+		"/Users/matthewlee/mmlee/content/project/_index.md",
+		"/Users/matthewlee/mmlee/themes/hugo-apero/static/img/mtrainier.jpg",
+		"/Users/matthewlee/mmlee/content/project/bakeoff/index.md",
+		"/Users/matthewlee/mmlee/themes/hugo-apero/layouts/about/list.html",
+		"/Users/matthewlee/.Trash/index.md",
+		"/Users/matthewlee/mmlee/content/about/main/index.md",
+		"/Users/matthewlee/mmlee/content/about/header/index.md",
+		"/Users/matthewlee/mmlee/assets/hexcolor-scheme.scss",
+		"/Users/matthewlee/mmlee/content/about/_index.md",
+		"/Users/matthewlee/mmlee/content/form/contact.md",
+		"/Users/matthewlee/mmlee/content/_index.md",
+		"/Users/matthewlee/mmlee/.gitignore",
+		"/Users/matthewlee/mmlee/themes/hugo-apero/assets/custom-fonts.scss",
+		"/Users/matthewlee/mmlee/themes/hugo-apero/layouts/index.html",
+		"/Users/matthewlee/mmlee/assets/color-scheme.scss",
+		"/Volumes/GoogleDrive/My Drive/Matt/Research/CHOICES/Intervention Summary Scripts/aggregatR/Vignette/vignette.R",
+		"/Volumes/GoogleDrive/My Drive/Matt/Research/CHOICES/Intervention Summary Scripts/aggregatR/R/get_results.R",
+		"/Volumes/GoogleDrive/My Drive/Matt/Research/CHOICES/Intervention Summary Scripts/aggregatR/R/generate_xlsx.R",
+		"/Volumes/GoogleDrive/My Drive/Matt/Research/CHOICES/Intervention Summary Scripts/aggregatR/R/read_intervention.R",
+		"/Volumes/GoogleDrive/My Drive/Matt/Research/CHOICES/Intervention Summary Scripts/aggregatR/R/misc_utilities.R",
+		"/Volumes/GoogleDrive/My Drive/Matt/Research/CHOICES/Intervention Summary Scripts/aggregatR/DESCRIPTION",
+		"/Volumes/GoogleDrive/My Drive/Matt/Research/CHOICES/Intervention Summary Scripts/aggregatR/R/read_baseline.R",
+		"/Volumes/GoogleDrive/My Drive/Matt/Research/CHOICES/Intervention Summary Scripts/aggregatR/R/int_calcs.R",
+		"/Volumes/GoogleDrive/My Drive/Matt/Research/CHOICES/Intervention Summary Scripts/aggregatR/R/int_totals.R",
+		"/Volumes/GoogleDrive/My Drive/Matt/Research/CHOICES/Intervention Summary Scripts/aggregatR/Test/testing.R",
+		"/Volumes/GoogleDrive/My Drive/Matt/Research/CHOICES/Intervention Summary Scripts/aggregatR/.gitignore",
+		"/Volumes/GoogleDrive/My Drive/Matt/Research/CHOICES/Intervention Summary Scripts/test-case/.lintr",
+		"/Users/matthewlee/.lintr",
+		"/Volumes/GoogleDrive/My Drive/Matt/Research/CHOICES/Intervention Summary Scripts/test-case/summary_ca.R",
+		"/Users/matthewlee/Harvard University/GBFB NFACT data analysis team - Documents/Analysis/scripts/run_scripts.Rout",
+		"/Users/matthewlee/Harvard University/GBFB NFACT data analysis team - Documents/Analysis/scripts/libraries.R",
+		"/Users/matthewlee/Harvard University/GBFB NFACT data analysis team - Documents/Analysis/scripts/1_clean_data.R",
+		"/Users/matthewlee/Harvard University/GBFB NFACT data analysis team - Documents/Analysis/scripts/2_analyze_data.R",
+		"/Users/matthewlee/Desktop/notes",
+		"/Volumes/GoogleDrive/My Drive/Matt/School/PhD /2020-2021/Fall 2020/BST228/hw/hw4/HW4_Writeup_BST228_Lee.Rnw",
+		"/Users/matthewlee/Library/Application Support/Sublime Text 3/Packages/User/rsub.py",
+		"/Users/matthewlee/Library/Application Support/Sublime Text 3/Packages/User/R-rheader.sublime-snippet",
+		"/Users/matthewlee/Library/Application Support/Sublime Text 3/Packages/User/R-rsection.sublime-snippet",
+		"/Users/matthewlee/Library/Application Support/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/Users/matthewlee/CHOICES/CHOICES/src/o2/O2SubmissionRegistration.java",
+		"/Users/matthewlee/CHOICES/CHOICES/src/o2/O2SubmissionWorker.java",
+		"/Users/matthewlee/CHOICES/CHOICES/src/o2/O2Submission.java",
+		"/Users/matthewlee/CHOICES/CHOICES/src/o2/O2SubmissionWorkerEvent.java",
+		"/Volumes/GoogleDrive/My Drive/Matt/School/PhD /PQE/other_plots.R",
+		"/Volumes/GoogleDrive/My Drive/Matt/School/PhD /PQE/Slides/slides.tex",
+		"/Volumes/GoogleDrive/My Drive/Matt/School/PhD /2020-2021/Spring 2021/SBS 204/assignments/Workplan and Logic Model/workplan_logic.tex",
+		"/Users/matthewlee/Harvard University/HSPH-SBS-PRC-Students - Matt Lee - Documents/Matt Lee/NHANES/Bev codes/NHANES 2011-16 Pooled Analysis/plotting/NHANES_Plots_Lee.rnw",
+		"/Volumes/GoogleDrive/My Drive/Matt/Research/ECLS-K 2011/scripts/2_run_analyses.R",
+		"/Volumes/GoogleDrive/My Drive/Matt/School/PhD /PQE/Slides/slides.te",
+		"/Volumes/GoogleDrive/My Drive/Matt/Research/CHOICES/Summary R Functions/Reproduce_CA.R",
+		"/Users/matthewlee/sort-google-scholar/sortgs.py",
+		"/Users/matthewlee/Harvard University/GBFB NFACT data analysis team - Documents/Analysis/exploratory.rmd",
+		"/Users/matthewlee/Library/Application Support/Sublime Text 3/Packages/User/rmarkdown-preamble.sublime-snippet",
+		"/Volumes/GoogleDrive/My Drive/Matt/School/PhD /2020-2021/Spring 2021/SBS 500/Assignments/Final Grant/Final-Grant.tex",
+		"/Users/matthewlee/Dropbox (Harvard University)/PhD Course for PHS/PhD PHS Course syllabus/2000B/2022/Reminder Notes From 2020.md",
+		"/Users/matthewlee/Dropbox (Harvard University)/PhD Course for PHS/Quizzes/2020-21/PHS2000B/Exam 2/Collated Exam Document/exam2_blank.rmd",
+		"/Volumes/GoogleDrive/My Drive/Matt/Markdown Styling/draft-style.Rmd",
+		"/Volumes/GoogleDrive/My Drive/Matt/School/PhD /Spring 2021/SBS 204/assignments/Workplan and Logic Model/workplan_logic.tex",
+		"/Users/matthewlee/Dropbox (Harvard University)/PhD Course for PHS/Quizzes/2020-21/PHS2000B/Exam 2/3. ITS-DID/ITS DID_blank.Rmd",
+		"/Users/matthewlee/Dropbox (Harvard University)/PhD Course for PHS/Quizzes/2020-21/PHS2000B/Exam 2/3. ITS-DID/ITS DID_solutions.Rmd",
+		"/Users/matthewlee/Dropbox (Harvard University)/PhD Course for PHS/Problem Sets/PHS2000B - Problem Sets (2021)/PHS2000B - Problem Set 9 - Meta Analysis/Problem Set 9 Solutions.Rmd",
+		"/Users/matthewlee/Desktop/slides/lab10-factor-analysis.Rnw",
+		"/Users/matthewlee/CHOICES/CHOICES/src/data_acs/ACSMicroPerson.java",
+		"/Users/matthewlee/Dropbox (Harvard University)/PhD Course for PHS/Quizzes/2020-21/PHS2000B/Exam 2/RD/exam1_solution.Rmd",
+		"/Volumes/GoogleDrive/My Drive/Matt/School/PhD /Spring 2021/SBS 500/Assignments/refs.bib",
+		"/Volumes/GoogleDrive/My Drive/Matt/School/PhD /Spring 2021/SBS 500/Assignments/Approach Outline/approach.tex",
+		"/Volumes/GoogleDrive/My Drive/Matt/School/PhD /Spring 2021/SBS 500/Assignments/Approach/approach_draft2.tex",
+		"/Users/matthewlee/Dropbox (Harvard University)/PhD Course for PHS/Labs/PHS2000A_2020/Lab 4 - MLR OLS GOF/slides/lab-slides_MLR-OLS-GOF.Rnw",
+		"/Users/matthewlee/Library/Application Support/Sublime Text 3/Packages/User/tex-article-preamble.sublime-snippet",
+		"/Users/matthewlee/CHOICES/CHOICES/src/data_brfss/BRFSSPerson.java",
+		"/Users/matthewlee/CHOICES/CHOICES/src/data_census/CENSUSgeoHeader.java",
+		"/Users/matthewlee/CHOICES/CHOICES/src/data_census/CENSUStract.java",
+		"/Users/matthewlee/CHOICES/CHOICES/src/data_census/CENSUSstate.java",
+		"/Users/matthewlee/CHOICES/CHOICES/src/data_census/CENSUSmaster.java",
+		"/Users/matthewlee/CHOICES/CHOICES/src/pop/MatchACSMicro.java",
+		"/Users/matthewlee/CHOICES/CHOICES/src/pop/MatchCensus.java",
+		"/Users/matthewlee/Desktop/timestamps.txt",
+		"/Users/matthewlee/CHOICES/CHOICES/src/data_acs/ACSMicroMaster.java",
+		"/Users/matthewlee/Dropbox (Harvard University)/PhD Course for PHS/Quizzes/2020-21/PHS2000B/Exam 1/Solution/exam1_solution.Rmd",
+		"/Users/matthewlee/Dropbox (Harvard University)/PhD Course for PHS/Quizzes/2020-21/PHS2000B/Exam 1/Solution/exam1_solution.rmd",
+		"/Users/matthewlee/Dropbox (Harvard University)/PhD Course for PHS/Labs/PHS2000B_2021/Lab 4 - Interaction and Mediation/slides/lab-slides_ixn-mediation.Rnw",
+		"/Users/matthewlee/Harvard University/HSPH-SBS-PRC - NIH Simulation Modeling - Documents/NIH Simulation Modeling/Interventions/WIC/State-level WIC Coverage Rates/WIC_coverage.R",
+		"/Volumes/GoogleDrive/My Drive/Matt/Research/ECLS-K 2011/scripts/MSM_Exploratory/msm.rnw",
+		"/Volumes/GoogleDrive/My Drive/Matt/Research/ECLS-K 2011/scripts/msm_functions.R",
+		"/Volumes/GoogleDrive/My Drive/Matt/Research/ECLS-K 2011/scripts/4_MSM_weights.R",
+		"/Volumes/GoogleDrive/My Drive/Matt/Research/ECLS-K 2011/scripts/2_run_analyses.Rout",
+		"/Volumes/GoogleDrive/My Drive/Matt/Research/ECLS-K 2011/scripts/2_run_analyses_justBMI.R",
+		"/Volumes/GoogleDrive/My Drive/Matt/Research/ECLS-K 2011/scripts/3_xs_analyses.R",
+		"/Volumes/GoogleDrive/My Drive/Matt/Research/ECLS-K 2011/scripts/1_create_analytic_dataset.R",
+		"/Volumes/GoogleDrive/My Drive/Matt/Research/ECLS-K 2011/scripts/1_create_analytic_dataset.Rout",
+		"/Volumes/GoogleDrive/My Drive/Matt/Research/CHOICES/WIC Model/State-level WIC Coverage Rates/WIC_coverage.R",
+		"/Volumes/GoogleDrive/My Drive/Matt/School/PhD /Spring 2021/SBS 500/Assignments/Literature Review/lit_review.rnw",
+		"/Users/matthewlee/Dropbox (Harvard University)/PhD Course for PHS/Problem Sets/PHS2000B - Problem Sets (2021)/PHS2000B - Problem Set 3 - Interaction and Medidation/ps3_2021.Rmd",
+		"/Users/matthewlee/Dropbox (Harvard University)/PhD Course for PHS/Quizzes/2020-21/PHS2000B/Exam 1/Development/PS and MSM/exam1_MSM_solutions_for_copy_paste.Rmd",
+		"/Users/matthewlee/Dropbox (Harvard University)/PhD Course for PHS/Labs/PHS2000B_2021/Lab 4 - Interaction and Mediation/handout/lab4_ixn-mediation_handout.rmd",
+		"/Users/matthewlee/Dropbox (Harvard University)/PhD Course for PHS/Quizzes/2020-21/PHS2000B/Exam 1/texsetup.sty",
+		"/Users/matthewlee/Dropbox (Harvard University)/PhD Course for PHS/Quizzes/2020-21/PHS2000B/Exam 1/exam1_blank.rmd",
+		"/Volumes/GoogleDrive/My Drive/Matt/School/PhD /Spring 2021/SBS 500/Assignments/Significant and Innovation Notes.md",
+		"/Users/matthewlee/Dropbox (Harvard University)/PhD Course for PHS/Labs/PHS2000B_2021/Lab 4 - Interaction and Mediation/handout/interaction_code.R",
+		"/Users/matthewlee/Desktop/Time stamp.txt",
+		"/Users/matthewlee/Library/Application Support/Sublime Text 3/Packages/DocBlockr/Base File.sublime-settings",
+		"/Users/matthewlee/Library/Application Support/Sublime Text 3/Packages/DocBlockr/README.md",
+		"/Users/matthewlee/Library/Application Support/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
+		"/Volumes/GoogleDrive/My Drive/Matt/School/PhD /Spring 2021/SBS 500/Assignments/Research Area/research_area.rnw",
+		"/Users/matthewlee/Dropbox (Harvard University)/PhD Course for PHS/Labs/PHS2000B_2021/Lab 4 - Interaction and Mediation/Previous Labs/Lab 4/lab4_mediation.Rmd",
+		"/Users/matthewlee/Dropbox (Harvard University)/PhD Course for PHS/Labs/PHS2000B_2021/Lab 4 - Interaction and Mediation/lab4_code.R",
+		"/Volumes/GoogleDrive/My Drive/Matt/Research/Madsen Research/California HS Education Maps/map.R",
+		"/Users/matthewlee/Dropbox (Harvard University)/MENUS/code-review-ml/scripts/1_Import_Files.R",
+		"/Users/matthewlee/Desktop/test.R",
+		"/Users/matthewlee/Desktop/Logistic_mismeasured_outcome_simulation.R",
+		"/Users/matthewlee/Desktop/Time Stamps 2:11:2021.txt",
+		"/Users/matthewlee/Dropbox (Harvard University)/PhD Course for PHS/Problem Sets/PHS2000B - Problem Sets (2020)/PHS2000B - Problem Set 3/ps3_2020.Rmd",
+		"/Users/matthewlee/Dropbox (Harvard University)/PhD Course for PHS/Problem Sets/PHS2000B - Problem Sets (2021)/PHS2000B - Problem Set 3 - Interaction and Medidation/ps3_2020.Rmd",
+		"/Users/matthewlee/Dropbox (Harvard University)/PhD Course for PHS/Problem Sets/PHS2000B - Problem Sets (2021)/PHS2000B - Problem Set 3 - Interaction and Medidation/ps2_2020.Rmd",
+		"/Users/matthewlee/Desktop/Flip or Not Flip/flip-or-not-flip.Rnw",
+		"/Users/matthewlee/Desktop/Timestamps 2:4:21.txt"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 62.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 424.0
+	},
+	"output.Terminus":
+	{
+		"height": 136.0
+	},
+	"output.Terminus 2":
+	{
+		"height": 128.0
+	},
+	"output.Terminus 3":
+	{
+		"height": 122.0
+	},
+	"output.Terminus 4":
+	{
+		"height": 122.0
+	},
+	"output.diagnostics":
+	{
+		"height": 27.0
+	},
+	"output.exec":
+	{
+		"height": 171.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 132.0
+	},
+	"output.language servers":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 126.0
+	},
+	"output.markdown":
+	{
+		"height": 128.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mmlee_site.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Harvard University/GBFB NFACT data analysis team - Documents/nfact.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 442.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 600.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 207.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
