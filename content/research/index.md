@@ -23,8 +23,10 @@ My doctoral research aims to identify the <span style="font-family:Metropolis-SB
 
 ### Publications
 
+<sup>&#8224;</sup>Clark O, <sup>&#8224;</sup><span style="font-family:Metropolis-SB">Lee MM</span>, Jingree ML, et al. Weight Stigma and Social Media: Evidence and Public Health Solutions. Frontiers in Nutrition. 2021;8. &nbsp;[[link]](https://www.frontiersin.org/article/10.3389/fnut.2021.739056)
 
-Vercammen KA, Moran A, Carnethon M, McClain AC, Pool LR, Kiefe CI, Carson AP, Gordon-Larsen P, Steffen LM, <span style="font-family:Metropolis-SB">Lee MM</span>, Young J, Rimm EB. A longitudinal analysis of food insufficiency and cardiovascular disease risk factors in the Coronary Artery Risk Development in Young Adults Study. *American Journal of Preventive Medicine. In Press.* 2021. 
+
+Vercammen KA, Moran A, Carnethon M, McClain AC, Pool LR, Kiefe CI, Carson AP, Gordon-Larsen P, Steffen LM, <span style="font-family:Metropolis-SB">Lee MM</span>, Young J, Rimm EB. A longitudinal analysis of food insufficiency and cardiovascular disease risk factors in the Coronary Artery Risk Development in Young Adults Study. *American Journal of Preventive Medicine.* 2022;62(1):65-76. &nbsp;[[link]](https://pubmed.ncbi.nlm.nih.gov/34642058/)
 
 
 <span style="font-family:Metropolis-SB">Lee MM</span>, Altman E, Madsen KA. Secular Trends in Sugar-Sweetened Beverage Consumption Among Adults, Teens, and Children: The California Health Interview Survey, 2011–2018. *Prev Chronic Dis*. 2021;18. &nbsp;[[link]](https://www.cdc.gov/pcd/issues/2021/20_0399.htm)
@@ -45,10 +47,9 @@ Mujahid MS, Sohn EK, Izenberg J, Gao X, Tulier ME, <span style="font-family:Metr
 
 ### Submitted Manuscripts
 
-<span style="font-family:Metropolis-SB">Lee MM</span>, Kinsey E, Kenney EL. Participation in US federal nutrition assistance programs and childhood obesity risk: The Early Childhood Longitudinal Study 2011 (ECLS-K:2011). Under Review. 2021.
+<span style="font-family:Metropolis-SB">Lee MM</span>, Kinsey E, Kenney EL. US nutrition assistance program participation and childhood obesity: The Early Childhood Longitudinal Study 2011. Under Review. 2021.
 
 
-<sup>&#8224;</sup>Clark O, <sup>&#8224;</sup><span style="font-family:Metropolis-SB">Lee MM</span>, Jingree M, O’Dwyer E, Yue Y, Marrero A, et al. Weight Stigma and Social Media: Evidence and Public Health Solutions. Under Review. 2021. 
 
 <br>
 

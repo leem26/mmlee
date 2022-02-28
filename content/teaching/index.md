@@ -51,6 +51,21 @@ title: Teaching
 
 *  Doctoral-level quantitative methods course covering topics in propensity score based methods, sensitivity analysis, measurement error correction, causal interaction/mediation, marginal structural models, regression discontinuity designs, interrupted time series, difference-in-differences, factor analysis, methods for missing data, meta-analysis, and multiple testing.  
 
+
+<span style="font-family:Metropolis-SB">Teaching Fellow,</span> Nutrition 202: The Biological Basis of Human Nutrition (Spring 2022)
+
+*  Required course for all Nutrition masters and doctoral students, covering biochemistry and metabolism of carbohydrates, fats, proteins, vitamins, and minerals in the context of human disease. Particular emphasis is given to current knowledge of the mechanisms that may explain the role of diet in the causation and/or prevention of ischemic heart disease, diabetes, obesity, hypertension, and cancer.
+
+<span style="font-family:Metropolis-SB">Teaching Fellow,</span> SBS 203: Program Planning (Spring 2022)
+
+*  Required course for all masters students in the Social and Behavioral Sciences program. Provides an introduction to public health intervention planning.  Applies social science principles to community assessment, data collection, and prioritization.  Foci include identifying health-related needs and assets for individuals, communities, organizations, and national groups and will discuss the various challenges that researchers and practitioners encounter when doing work "on the ground".
+
+<span style="font-family:Metropolis-SB">Teaching Fellow,</span> SBS 204: Program Implementation and Evaluation (Spring 2022)
+
+*  Required course for all masters students in the Social and Behavioral Sciences program. Provides an introduction to public health intervention implementation and evaluation in applied settings. Foci include health-related intervention for individuals, communities, organizations, and local/national groups and the various challenges that researchers and practitioners encounter when conducting this work.
+
+
+
 <br>
 
 
