@@ -6,15 +6,6 @@ excerpt: Building this static site generator theme was the first time I used an 
 layout: single
 subtitle: /rɪsə́ːʧ/
 title: Research
-# links:
-# - icon: door-open
-#   icon_pack: fas
-#   name: website
-#   url: https://bakeoff.netlify.com/
-# - icon: github
-#   icon_pack: fab
-#   name: code
-#   url: https://github.com/apreshill/bakeoff
 ---
 
 My doctoral research aims to identify the <span style="font-family:Metropolis-SB">causal effects</span> of existing and potential nutrition policies on obesity and cardiometabolic disease risk factors, with the overall goal of reducing <span style="font-family:Metropolis-SB">health disparities</span> and improving <span style="font-family:Metropolis-SB">population health</span>. Using a diverse set of *causal inference, econometrics, and decision science* methods, I am working to understand how dietary behaviors such as the consumption of sugar-sweetened beverages (SSBs) <u>propagate and spread through social networks</u>, how SSB tax-attributable beverage advertising changes <u>moderate treatment effects</u>, and how microsimulations of proposed policies aimed at reducing obesity <u>can more accurately reflect real-world implementation and target populations</u>. I am primarily advised by [Dr. Erica Kenney](https://www.hsph.harvard.edu/erica-kenney/) in the Harvard T.H. Chan School [Department of Nutrition](https://www.hsph.harvard.edu/nutrition/), and collaborate with others in [Health Policy and Management](https://www.hsph.harvard.edu/health-policy-and-management/), [Epidemiology](https://www.hsph.harvard.edu/epidemiology/), [Social and Behavioral Sciences](https://www.hsph.harvard.edu/social-and-behavioral-sciences/), and [Biostatistics](https://www.hsph.harvard.edu/biostatistics/), as well as with researchers at the [Prevention Research Center](https://www.hsph.harvard.edu/prc/). 
@@ -23,7 +14,11 @@ My doctoral research aims to identify the <span style="font-family:Metropolis-SB
 
 ### Publications
 
-<sup>&#8224;</sup>Clark O, <sup>&#8224;</sup><span style="font-family:Metropolis-SB">Lee MM</span>, Jingree ML, et al. Weight Stigma and Social Media: Evidence and Public Health Solutions. Frontiers in Nutrition. 2021;8. &nbsp;[[link]](https://www.frontiersin.org/article/10.3389/fnut.2021.739056)
+<span style="font-family:Metropolis-SB">Lee, MM</span>, Kinsey, E. W., Kenney, E. L., U.S. Nutrition Assistance Program Participation and Childhood Obesity: The Early Childhood Longitudinal Study 2011. *American Journal of Preventive Medicine.* 2022. &nbsp;[[link]](https://www.sciencedirect.com/science/article/pii/S0749379722001507)
+
+Zahid, N., Pulvera, R., Madsen, K. A., <span style="font-family:Metropolis-SB">Lee, MM</span>, Ibarra-Castro, A., Falbe, J., Socioeconomic Disparities in Outdoor Branded Advertising in San Francisco and Oakland, California. *Preventive Medicine Reports (In Press)*. 2022.
+
+<sup>&#8224;</sup>Clark O, <sup>&#8224;</sup><span style="font-family:Metropolis-SB">Lee MM</span>, Jingree ML, et al. Weight Stigma and Social Media: Evidence and Public Health Solutions. *Frontiers in Nutrition.* 2021;8. &nbsp;[[link]](https://www.frontiersin.org/article/10.3389/fnut.2021.739056)
 
 
 Vercammen KA, Moran A, Carnethon M, McClain AC, Pool LR, Kiefe CI, Carson AP, Gordon-Larsen P, Steffen LM, <span style="font-family:Metropolis-SB">Lee MM</span>, Young J, Rimm EB. A longitudinal analysis of food insufficiency and cardiovascular disease risk factors in the Coronary Artery Risk Development in Young Adults Study. *American Journal of Preventive Medicine.* 2022;62(1):65-76. &nbsp;[[link]](https://pubmed.ncbi.nlm.nih.gov/34642058/)
@@ -42,14 +37,6 @@ Mujahid MS, Sohn EK, Izenberg J, Gao X, Tulier ME, <span style="font-family:Metr
 <span style="font-family:Metropolis-SB">Lee MM</span>, Falbe J, Madsen KA. Secular Trends in Soda Consumption, California, 2011-2016. *Prev Chronic Dis*. 2019;16. &nbsp;[[link]](https://www.cdc.gov/pcd/issues/2019/18_0372.htm#:~:text=The%20proportion%20of%20white%20participants,to%2029.4%20million%20(Table).&text=On%20average%2C%20California%20adults%20consumed,2015%2C%20and%202.0%20in%202016.)
 
  
-
-<br>
-
-### Submitted Manuscripts
-
-<span style="font-family:Metropolis-SB">Lee MM</span>, Kinsey E, Kenney EL. US nutrition assistance program participation and childhood obesity: The Early Childhood Longitudinal Study 2011. Under Review. 2021.
-
-
 
 <br>
 

@@ -124,7 +124,7 @@ enableEmoji = true
   [[menu.header]]
     name = "C.V."
     title = "Curriculum Vitae"
-    url = "/pdf/resume_mml_092021.pdf"
+    url = "/pdf/resume_mml_042022.pdf"
     weight = 4
   [[menu.header]]
     name = "Contact"
