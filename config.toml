@@ -124,7 +124,7 @@ enableEmoji = true
   [[menu.header]]
     name = "C.V."
     title = "Curriculum Vitae"
-    url = "/pdf/resume_mml_042022.pdf"
+    url = "https://docs.google.com/viewer?url=https://raw.github.com/leem26/CV/main/Resume.pdf"
     weight = 4
   [[menu.header]]
     name = "Contact"
