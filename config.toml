@@ -126,11 +126,11 @@ enableEmoji = true
     title = "Curriculum Vitae"
     url = "https://docs.google.com/viewer?url=https://raw.github.com/leem26/CV/main/Resume.pdf"
     weight = 4
-  [[menu.header]]
-    name = "Contact"
-    title = "Contact"
-    url = "/contact/"
-    weight = 5
+  # [[menu.header]]
+  #   name = "Contact"
+  #   title = "Contact"
+  #   url = "/contact/"
+  #   weight = 5
     
   # Configure footer  
   [[menu.footer]]
