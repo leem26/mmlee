@@ -42,7 +42,7 @@ title: Teaching
 
 ### Courses
 
-<span style="font-family:Metropolis-SB">Teaching Fellow,</span> PHS 2000A: Quant. Methods for Population Health Science I (Fall 2020)
+<span style="font-family:Metropolis-SB">Teaching Fellow,</span> PHS 2000A: Quant. Methods for Population Health Science I (Fall 2020, Fall 2022)
 
 *  Doctoral-level quantitative methods course covering topics in sampling, likelihood theory, generalized linear regression models, longitudinal data analysis, survival analysis, and measurement theory.
 
@@ -56,11 +56,11 @@ title: Teaching
 
 *  Required course for all Nutrition masters and doctoral students, covering biochemistry and metabolism of carbohydrates, fats, proteins, vitamins, and minerals in the context of human disease. Particular emphasis is given to current knowledge of the mechanisms that may explain the role of diet in the causation and/or prevention of ischemic heart disease, diabetes, obesity, hypertension, and cancer.
 
-<span style="font-family:Metropolis-SB">Teaching Fellow,</span> SBS 203: Program Planning (Spring 2022)
+<span style="font-family:Metropolis-SB">Teaching Fellow,</span> SBS 203: Program Planning (Spring 2022, Spring 2023)
 
 *  Required course for all masters students in the Social and Behavioral Sciences program. Provides an introduction to public health intervention planning.  Applies social science principles to community assessment, data collection, and prioritization.  Foci include identifying health-related needs and assets for individuals, communities, organizations, and national groups and will discuss the various challenges that researchers and practitioners encounter when doing work "on the ground".
 
-<span style="font-family:Metropolis-SB">Teaching Fellow,</span> SBS 204: Program Implementation and Evaluation (Spring 2022)
+<span style="font-family:Metropolis-SB">Teaching Fellow,</span> SBS 204: Program Implementation and Evaluation (Spring 2022, Spring 2023)
 
 *  Required course for all masters students in the Social and Behavioral Sciences program. Provides an introduction to public health intervention implementation and evaluation in applied settings. Foci include health-related intervention for individuals, communities, organizations, and local/national groups and the various challenges that researchers and practitioners encounter when conducting this work.
 
