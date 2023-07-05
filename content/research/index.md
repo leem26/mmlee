@@ -14,6 +14,10 @@ My doctoral research aims to identify the <span style="font-family:Metropolis-SB
 
 ### Publications
 
+<span style="font-family:Metropolis-SB">Lee, M. M.</span>, Poole, M. K., Zack, R. M., Fiechtner, L., Rimm, E. B., Kenney, E. L., Food Insecurity and the Role of Food Assistance Programs in Supporting Diet Quality during the COVID-19 Pandemic in Massachusetts. Frontiers in Nutrition. 9. issn: 2296-861X. doi:10.3389/fnut.2022.1007177 (2023).
+
+Kenney, E. L., Soto, M. J., Fubini, M., Carleton, A., <span style="font-family:Metropolis-SB">Lee, M. M.</span>, Bleich, S. N., Simplification of Supplemental Nutrition Assistance Program Recertification Processes and Association With Uninterrupted Access to Benefits Among Participants With Young Children. JAMA Network Open 5, e2230150. issn: 2574-3805 (2022).
+
 <span style="font-family:Metropolis-SB">Lee, MM</span>, Kinsey, E. W., Kenney, E. L., U.S. Nutrition Assistance Program Participation and Childhood Obesity: The Early Childhood Longitudinal Study 2011. *American Journal of Preventive Medicine.* 2022. &nbsp;[[link]](https://www.sciencedirect.com/science/article/pii/S0749379722001507)
 
 Zahid, N., Pulvera, R., Madsen, K. A., <span style="font-family:Metropolis-SB">Lee, MM</span>, Ibarra-Castro, A., Falbe, J., Socioeconomic Disparities in Outdoor Branded Advertising in San Francisco and Oakland, California. *Preventive Medicine Reports (In Press)*. 2022.
@@ -42,6 +46,16 @@ Mujahid MS, Sohn EK, Izenberg J, Gao X, Tulier ME, <span style="font-family:Metr
 
 
 ### Presentations
+
+<span style="font-family:Metropolis-SB">Lee MM</span>, Kenney EL, Carlson K, Novick E, Portocarrero P, Rimm EB, Chen JT, Gortmaker SL, Stephenson BK, Liebman J. Impact of unconditional cash transfers on diet during the COVID-19 pandemic: A randomized lottery experiment. American Public Health Association Annual Meeting. (2023).
+
+<span style="font-family:Metropolis-SB">Lee MM</span>, Gibson LA, Hua SV, Lowery CM, Paul M, Roberto CA, Lawman HG, Bleich SN, Mitra N, Kenney EL. Changes in advertising and store stocking practices among small, independent beverage retailers following a sweetened beverage excise tax in Philadelphia: A difference-in-differences study. American Public Health Association Annual Meeting. (2023).
+
+Chapman L, Richardson S, Rimm EB, Gortmaker SL, <span style="font-family:Metropolis-SB">Lee MM</span>, Cohen J. Daily saturated fat and sodium content of school meals among a nationally representative sample of elementary schools in the United States. American Public Health Association Annual Meeting. (2023).
+
+<span style="font-family:Metropolis-SB">Lee MM</span>, Barrett J, Kenney EL, Gouck J, Cradock AL, Long MW, Ward ZJ, Rohrer B, Gortmaker SL. Impacts of a state-wide sugar-sweetened beverage excise tax in California: Projected benefits for population obesity and health equity. American Public Health Association Annual Meeting. (2022).
+
+<span style="font-family:Metropolis-SB">Lee MM</span>, Barrett J, Ward ZJ, Long MW, Cradock AL, Gortmaker SL. The cost-effectiveness and health equity impacts of improved nutrition standards in WIC, and the potential for maximizing WIC’s benefits for population health. \textit{American Public Health Association Annual Meeting}. (2022).
 
 Yuan H, Schillinger D, Ponce J, <span style="font-family:Metropolis-SB">Lee MM</span>, Falbe, J, Daniels, R, Madsen, KA. Implementation of 3 sugar-sweetened beverage taxes in California Bay Area. *American Public Health Association Annual Meeting and Expo*. 2019. &nbsp;[[link]](https://apha.confex.com/apha/2019/meetingapi.cgi/Paper/436505?filename=2019_Abstract436505.html&template=Word)
 
