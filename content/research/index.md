@@ -14,7 +14,7 @@ My doctoral research aims to identify the <span style="font-family:Metropolis-SB
 ### Publications
 
 
-See my ![Curriculum Vitae](https://docs.google.com/viewer?url=https://raw.github.com/leem26/CV/main/Resume.pdf).
+See my [curriculum vitae](https://docs.google.com/viewer?url=https://raw.github.com/leem26/CV/main/Resume.pdf).
  
 
 <br>
