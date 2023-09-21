@@ -13,32 +13,8 @@ My doctoral research aims to identify the <span style="font-family:Metropolis-SB
 
 ### Publications
 
-<span style="font-family:Metropolis-SB">Lee, M. M.</span>, Poole, M. K., Zack, R. M., Fiechtner, L., Rimm, E. B., Kenney, E. L., Food Insecurity and the Role of Food Assistance Programs in Supporting Diet Quality during the COVID-19 Pandemic in Massachusetts. Frontiers in Nutrition. 9. issn: 2296-861X. doi:10.3389/fnut.2022.1007177 (2023).
 
-Kenney, E. L., Soto, M. J., Fubini, M., Carleton, A., <span style="font-family:Metropolis-SB">Lee, M. M.</span>, Bleich, S. N., Simplification of Supplemental Nutrition Assistance Program Recertification Processes and Association With Uninterrupted Access to Benefits Among Participants With Young Children. JAMA Network Open 5, e2230150. issn: 2574-3805 (2022).
-
-<span style="font-family:Metropolis-SB">Lee, MM</span>, Kinsey, E. W., Kenney, E. L., U.S. Nutrition Assistance Program Participation and Childhood Obesity: The Early Childhood Longitudinal Study 2011. *American Journal of Preventive Medicine.* 2022. &nbsp;[[link]](https://www.sciencedirect.com/science/article/pii/S0749379722001507)
-
-Zahid, N., Pulvera, R., Madsen, K. A., <span style="font-family:Metropolis-SB">Lee, MM</span>, Ibarra-Castro, A., Falbe, J., Socioeconomic Disparities in Outdoor Branded Advertising in San Francisco and Oakland, California. *Preventive Medicine Reports (In Press)*. 2022.
-
-<sup>&#8224;</sup>Clark O, <sup>&#8224;</sup><span style="font-family:Metropolis-SB">Lee MM</span>, Jingree ML, et al. Weight Stigma and Social Media: Evidence and Public Health Solutions. *Frontiers in Nutrition.* 2021;8. &nbsp;[[link]](https://www.frontiersin.org/article/10.3389/fnut.2021.739056)
-
-
-Vercammen KA, Moran A, Carnethon M, McClain AC, Pool LR, Kiefe CI, Carson AP, Gordon-Larsen P, Steffen LM, <span style="font-family:Metropolis-SB">Lee MM</span>, Young J, Rimm EB. A longitudinal analysis of food insufficiency and cardiovascular disease risk factors in the Coronary Artery Risk Development in Young Adults Study. *American Journal of Preventive Medicine.* 2022;62(1):65-76. &nbsp;[[link]](https://pubmed.ncbi.nlm.nih.gov/34642058/)
-
-
-<span style="font-family:Metropolis-SB">Lee MM</span>, Altman E, Madsen KA. Secular Trends in Sugar-Sweetened Beverage Consumption Among Adults, Teens, and Children: The California Health Interview Survey, 2011–2018. *Prev Chronic Dis*. 2021;18. &nbsp;[[link]](https://www.cdc.gov/pcd/issues/2021/20_0399.htm)
-
-Ponce J, Yuan H, Schillinger D, Mahmood H, <span style="font-family:Metropolis-SB">Lee MM</span>, Falbe J, et al. Retailer Perspectives on Sugar-Sweetened Beverage Taxes in the California Bay Area. *Preventive Medicine Reports*. 2020. &nbsp;[[link]](https://www.sciencedirect.com/science/article/pii/S2211335520300899)
-
-Falbe J, <span style="font-family:Metropolis-SB">Lee MM</span>, Kaplan S, Rojas NA, Ortega Hinojosa AM, Madsen KA. Higher Sugar-Sweetened Beverage Retail Prices After Excise Taxes in Oakland and San Francisco. *Am J Public Health*. 2020;110(7).  &nbsp;[[link]](https://pubmed.ncbi.nlm.nih.gov/32437271/)
-
-Mujahid MS, Sohn EK, Izenberg J, Gao X, Tulier ME, <span style="font-family:Metropolis-SB">Lee MM</span>, et al. Gentrification and Displacement in the San Francisco Bay Area: A Comparison of Measurement Approaches. *Int J Environ Res Public Health*. 2019;16(12). &nbsp;[[link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6616964/#:~:text=The%20distribution%20of%20neighborhoods%20across,9.4%25%20were%20experiencing%20advanced%20gentrification.)
-
-<span style="font-family:Metropolis-SB">Lee MM</span>, Falbe J, Schillinger D, Basu S, McCulloch CE, Madsen KA. Sugar-Sweetened Beverage Consumption 3 Years After the Berkeley, California, Sugar-Sweetened Beverage Tax. *Am J Public Health*. 2019;109(4). &nbsp;[[link]](https://pubmed.ncbi.nlm.nih.gov/30789776/)
-
-<span style="font-family:Metropolis-SB">Lee MM</span>, Falbe J, Madsen KA. Secular Trends in Soda Consumption, California, 2011-2016. *Prev Chronic Dis*. 2019;16. &nbsp;[[link]](https://www.cdc.gov/pcd/issues/2019/18_0372.htm#:~:text=The%20proportion%20of%20white%20participants,to%2029.4%20million%20(Table).&text=On%20average%2C%20California%20adults%20consumed,2015%2C%20and%202.0%20in%202016.)
-
+See my ![Curriculum Vitae](https://docs.google.com/viewer?url=https://raw.github.com/leem26/CV/main/Resume.pdf).
  
 
 <br>
