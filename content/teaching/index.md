@@ -78,7 +78,7 @@ title: Teaching
 *  "He is SO KNOWLEDGEABLE in what was being taught!! It is great to have a TA with lived experience in the coursework, I feel like I don't get that as often as I would like."
 *  "Matt was an absolutely incredible TA. He made complicated terms and concepts easy to understand. I especially appreciated his weekly review sessions, where he would effectively summarize the weeks lectures and answer any outstanding questions. He was always kind and never let anyone feel small or incompetent."
 
-View my **teaching ratings** [here].(https://drive.google.com/file/d/1PXfqvOLe5ufyqxg4z2PDQ9wBGHdHS1gV/view)
+View my **teaching ratings** [here.](https://drive.google.com/file/d/1PXfqvOLe5ufyqxg4z2PDQ9wBGHdHS1gV/view)
 
 
 
