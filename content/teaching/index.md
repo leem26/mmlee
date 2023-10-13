@@ -67,6 +67,20 @@ title: Teaching
 
 <br>
 
+### Select Qualitative Feedback
+
+*Full evaluations available upon request*
+
+*  "Ok... teachers aren't supposed to have favorites, right? But can students? Matt's labs were my favorite! This kid has a gift for teaching and I hope if he's considering being a professor one day he pursues that! The other TAs also gave amazing labs, but I think the way Matt put his together and explained concepts with examples and graphics was unparalleled. Also, you can tell he put a lot of effort into teaching well and that is very much appreciated. Thank you, Matt!"
+*  "Out of all the TA's I feel like Matt is the most consistent and apt as a teacher. His lab lectures were always incredibly clear and well– thought out and I always appreciate that his answers and support were very easy to understand. It's clear he has a gift for teaching and a strong grasp of how to do it well in a way that distills complex concepts into more simple to understand ones.""
+*  "Matt is incredible! Another gem of the PHS team! He was always very kind and helpful for PHS material during class and office hours, as well as supporting students with any and all R issues. I felt confident in my ability to tackle the problem sets after office hours with Matt, and felt like I was able to better engage with the material."
+*  "Especially when leading small group activities in class, Matt was really helpful in providing clarity to how certain strategies were used in practice and good at discussing the pros and cons of their application”
+*  "He is SO KNOWLEDGEABLE in what was being taught!! It is great to have a TA with lived experience in the coursework, I feel like I don't get that as often as I would like."
+*  "Matt was an absolutely incredible TA. He made complicated terms and concepts easy to understand. I especially appreciated his weekly review sessions, where he would effectively summarize the weeks lectures and answer any outstanding questions. He was always kind and never let anyone feel small or incompetent."
+
+View my **teaching ratings** [here].(https://drive.google.com/file/d/1PXfqvOLe5ufyqxg4z2PDQ9wBGHdHS1gV/view)
+
+
 
 ### Sessions
 
