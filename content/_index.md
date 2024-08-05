@@ -10,7 +10,7 @@ images:
 show_action_link: true
 show_social_links: true
 text_align_left: false
-title: Matthew Lee, MS
+title: Matthew Lee, PhD
 subtitle: Postdoctoral Research Fellow, Harvard T.H. Chan School of Public Health, Department of Social and Behavioral Sciences 
 type: home
 ---
