@@ -6,11 +6,11 @@ use_featured: false # if false, use most recent by date
 number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
-  <img src="/img/mtrainier.png"
+  <img src="/img/alps_circle.jpeg"
      alt="Markdown Monster icon"
      style="display:block;float:top;margin-top:-100px;margin-bottom:50px;margin-left:auto;margin-right:auto;width:30%"/>
 
-  I'm a postdoctoral research fellow at the Harvard University T.H. Chan School of Public Health, in the Department of Social and Behavioral Sciences My research is focused on evaluating existing and potential social policies and program that are poised to reduce cardiometabolic disease, with a particular emphasis on applying causal inference and simulation based methods. Prior to starting at Harvard, I completed a Master of Science degree in Epidemiology (2019) as well as a Bachelor of Arts in Public Health (2017) at the University of California, Berkeley, where I first developed my interests in health science. When I'm not knee-deep in `R` code or any ongoing data analysis, I enjoy playing the oboe/English horn ([watch me playing principal oboe on Mahler Symphony No. 6 with the UC Berkeley Symphony Orchestra](https://youtu.be/YQmFBxPhSzw?t=2200)), trying to find the sunniest of hikes, and making (and eating) new foods. Below are examples of some perhaps *less-than-perfectly-healthy* things I've cooked up recently. :cooking: :ramen: :dumpling:
+  I'm a postdoctoral research fellow at the Harvard University T.H. Chan School of Public Health, in the Department of Social and Behavioral Sciences My research is focused on evaluating existing and potential social policies and program that are poised to reduce cardiometabolic disease, with a particular emphasis on applying causal inference and simulation based methods. Previously, I completed by PhD in Population Health Sciences at Harvard University (track: Public Health Nutrition) and an SM in Biostatistics at the T.H. Chan School of Public Health (2024). I also completed a Master of Science degree in Epidemiology (2019) as well as a Bachelor of Arts in Public Health (2017) at the University of California, Berkeley, where I first developed my interests in health science. When I'm not knee-deep in `R` code or any ongoing data analysis, I enjoy playing the oboe/English horn ([watch me playing principal oboe on Mahler Symphony No. 6 with the UC Berkeley Symphony Orchestra](https://youtu.be/YQmFBxPhSzw?t=2200)), trying to find the sunniest of hikes, and making (and eating) new foods. Below are examples of some perhaps *less-than-perfectly-healthy* things I've cooked up recently. :cooking: :ramen: :dumpling:
 
   \- Matt 
   <br><br><br>
